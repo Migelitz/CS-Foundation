@@ -12,3 +12,6 @@ class Solution:
             original_num = (original_num - last_digit) // 10
         
         return reverse_num == x
+
+# Time Complexity: O(n)
+# Space Complexity: O(1)
