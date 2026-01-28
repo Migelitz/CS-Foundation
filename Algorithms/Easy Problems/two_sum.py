@@ -7,3 +7,6 @@ class Solution:
             if y in complement:
                 return [i, complement[y]]
             complement[nums[i]] = i
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
