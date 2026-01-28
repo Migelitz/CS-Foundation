@@ -15,15 +15,19 @@ This collection serves as a practical archive for my implementation of algorithm
 
 ---
 
-### 💻 Featured Implementations
+### 💻 Featured Implementations (Top 3)
 
 #### 1. Pointer Arithmetic (C++)
 * **File:** `/Cpp-Labs/pointer_swap.cpp`
 * **Description:** A manual implementation of value swapping using memory addresses (pointers) rather than temporary variables, demonstrating understanding of direct memory manipulation.
 
 #### 2. Two Sum (Python)
-* **File:** `/Algorithms/two_sum.py`
+* **File:** `/Algorithms/Easy Problems/two_sum.py`
 * **Description:** An optimized solution using Hash Maps (Dictionaries) to achieve linear time complexity O(n).
+
+#### 3. Is Palindrome (Python)
+* **File:** `Algorithms/Easy Problems/is_palindrome.py`
+* **Description:** An optimized solution using math to get the ones value to achieve linear time complexity O(n).
 
 ---
 
