@@ -7,3 +7,6 @@ class Solution:
                 return True
             seen[nums[i]] = 0
         return False
+
+# Time Complexity: O(n)
+# Space Complexity: O(n)
