@@ -10,7 +10,7 @@ This collection serves as a practical archive for my implementation of algorithm
 
 | Directory | Description | Focus Area |
 | :--- | :--- | :--- |
-| **`/Algorithms`** | Solutions to problems from **LeetCode**. | Logic, Big O Notation, Python |
+| **`/Algorithms`** | LeetCode solutions organized by difficulty and technique (e.g., Easy/Medium). | Logic, Big O Notation, Python |
 | **`/Cpp-Labs`** | Hands-on experiments with C++ core concepts. | Pointers, Memory Management, OOP |
 
 ---
