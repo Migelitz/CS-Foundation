@@ -21,12 +21,12 @@ This collection serves as a practical archive for my implementation of algorithm
 * **File:** `/Cpp-Labs/pointer_swap.cpp`
 * **Description:** A manual implementation of value swapping using memory addresses (pointers) rather than temporary variables, demonstrating understanding of direct memory manipulation.
 
-#### 2. Two Sum (Python)
-* **File:** `/Algorithms/Easy Problems/two_sum.py`
-* **Description:** An optimized solution using Hash Maps (Dictionaries) to achieve linear time complexity O(n).
+#### 2. Search a 2D Matrix
+* **File:** `Algorithms/Medium Problems/Binary Search Solutions/search_a_2D_matrix.py`
+* **Description:** Searching through 2D array with binary search with time complexity O(m * log n).
 
 #### 3. Is Palindrome (Python)
-* **File:** `Algorithms/Easy Problems/is_palindrome.py`
+* **File:** `Algorithms/Easy Problems/Math Solutions/is_palindrome.py`
 * **Description:** An optimized solution using math to get the ones value to achieve linear time complexity O(n).
 
 ---
